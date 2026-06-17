@@ -1,0 +1,51 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "DcWmUOBq_H-aINe8izmjR",
+      "type": "text",
+      "x": 312,
+      "y": 156,
+      "width": 250.99974060058594,
+      "height": 275,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a0",
+      "roundness": null,
+      "seed": 424846341,
+      "version": 159,
+      "versionNonce": 1094866315,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1781616056640,
+      "link": null,
+      "locked": false,
+      "text": "Type script -> Basic type\n1. string\n2. number\n3. boolean\n4. any\n5. union \n6. regexp\n7. Array\n8. Tuple\n9. Object\n10.",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Type script -> Basic type\n1. string\n2. number\n3. boolean\n4. any\n5. union \n6. regexp\n7. Array\n8. Tuple\n9. Object\n10.",
+      "autoResize": true,
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
