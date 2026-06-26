@@ -1,5 +1,18 @@
-"use client"
+"use client";
 
-export default function Error({error}: {error: Error}) {
-    return <p>Error: {error.message}</p>
+export default function GlobalError({
+  error,
+  reset,
+}: {
+  error: Error;
+  reset: () => void;
+}) {
+  return (
+    <div>
+      <h1>Something went wrong</h1>
+      <p>{error.message}</p>
+
+      <button onClick={reset}>Try again</button>
+    </div>
+  );
 }
